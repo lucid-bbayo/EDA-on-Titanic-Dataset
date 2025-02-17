@@ -10,7 +10,6 @@ The Titanic dataset contains 891 rows and 12 columns. Features such as 'Name', '
 \- 'Age' missing values were filled with the mean age.  
 \- 'Cabin' missing values were replaced with 'Unknown'.  
 \- Rows with any other missing values were removed.
-
 The dataframe ended up with 891 rows and 12 columns.
 
 ## **3\. Data Cleaning**
@@ -25,7 +24,6 @@ Several steps were taken to clean the data:
 Univariate analysis was conducted to explore individual features using visualizations such as histograms and boxplots. They include:  
 \- Age Distribution: Most passengers were between 22 and 35 years old.  
 \- Fare Distribution: Fares ranged from 0 to around 512.33 units, with some outliers, but the most common fares fall between 7.90 and 31 units (based on the capped fares).
-
 \- Passenger Class: The passenger class with the highest number of passengers is the third class (3), while second class (2) has the lowest number of passengers.
 
 ## **5\. Multivariate Analysis**
