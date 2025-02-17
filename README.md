@@ -38,7 +38,12 @@ Key visualizations include:
 - Boxplots for outlier detection and analysis.  
 - Histograms for distributions.  
 - Count plots for categorical variables.  
-- Heatmaps for correlation analysis.  
+- Heatmaps for correlation analysis.
+
+![survivor_counts](https://github.com/user-attachments/assets/175660e0-21d0-4f0d-b01e-c1a50fb439a4)
+![pclass_count](https://github.com/user-attachments/assets/35798ad7-6b38-4dd1-a512-fd7e4571cdf1)
+![survival_by_pclass](https://github.com/user-attachments/assets/acbe3067-541c-4e57-9196-257d7803111e)
+![survival_by_sex](https://github.com/user-attachments/assets/836c7f7b-5bf7-411a-9323-0b9964ed0962)
 
 ## Key Findings
 - **Survival Rate:** 38% of passengers survived.  
@@ -56,8 +61,8 @@ Key visualizations include:
    ```  
 3. Open the Jupyter Notebook and run the cells sequentially.  
 
-## Conclusion 🏁
-This analysis provides valuable insights into factors affecting survival on the Titanic. The next step could be to build a machine learning model for predictive analysis.  
+## Conclusion
+This analysis provides valuable insights into factors affecting survival on the Titanic.
 
-## Author 👨‍💻
-Basit Adebayo Tiamiyu  
+## Author
+[Basit Adebayo Tiamiyu](https://github.com/lucid-bbayo)
